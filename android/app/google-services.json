@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273368556708",
+    "project_id": "delivery-app-a1b52",
+    "storage_bucket": "delivery-app-a1b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273368556708:android:b83884e30223107a713231",
+        "android_client_info": {
+          "package_name": "com.vicsar23.charvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273368556708-9ljj1kvsjqavl7p0qu0m0m6s8hs3ivv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GUtGXuTWXefWXzFWDcFW6CYb-OpMQc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273368556708-9ljj1kvsjqavl7p0qu0m0m6s8hs3ivv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
